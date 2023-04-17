@@ -37,3 +37,8 @@ It combines the words "Cinema" (referring to movies) and "Preview" (referring to
 
 ![CinePreview](https://user-images.githubusercontent.com/87128985/232482614-bf559a1b-165e-448b-ad61-cb10f389eb3a.jpg)
 ![CinePrevier_review](https://user-images.githubusercontent.com/87128985/232487453-5689cf3d-f8da-482b-9e50-93fe93dfe6a7.jpg)
+<br>
+## Contributing
+
+If you would like to contribute to the project, please fork the repository and make your changes in a separate branch. Once you are satisfied with your changes, submit a pull request for review.
+
