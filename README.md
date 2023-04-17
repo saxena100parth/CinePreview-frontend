@@ -1,5 +1,6 @@
 # CinePreview_frontend
 This repository contain frontend code for movie review application.
+https://github.com/saxena100parth/CinePreview-frontend#also-used
 
 ## what I build and which problem I want to solve.
 
