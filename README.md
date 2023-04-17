@@ -22,11 +22,11 @@ MongoDB for the database, Java and Spring Boot for the back end, and React for t
 It combines the words "Cinema" (referring to movies) and "Preview" (referring to the trailers), and has a catchy ring to it. The name also implies that users can get a sneak peek at movies trailer and add their thoughts on them through reviews.
 
 ### Also used:
-Railway - for deploying backend. <br>
-GitHub-pages - for deploying frontend. <br>
-MongoDB Atlas - for cloud MongoDB database. <br>
-Maven - build automation tool. <br>
-tmdb.org - a website which provides free to use API for development, I use it for posters of movies. <br>
+- Railway - for deploying backend. <br>
+- GitHub-pages - for deploying frontend. <br>
+- MongoDB Atlas - for cloud MongoDB database. <br>
+- Maven - build automation tool. <br>
+- tmdb.org - a website which provides free to use API for development, I use it for posters of movies. <br>
 
 
 ![CinePreview](https://user-images.githubusercontent.com/87128985/232482614-bf559a1b-165e-448b-ad61-cb10f389eb3a.jpg)
