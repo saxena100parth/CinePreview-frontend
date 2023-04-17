@@ -3,7 +3,7 @@ This repository contain frontend code for movie review application.
 [how app looks](https://github.com/saxena100parth/CinePreview-frontend#also-used)
 
 link for the backend repository [click here](https://github.com/saxena100parth/CinePreview_backend)
-## Deployed link: [click here](https://saxena100parth.github.io/)
+## Deployed link: [click here](https://saxena100parth.github.io/CinePreview-frontend/)
 
 
 
