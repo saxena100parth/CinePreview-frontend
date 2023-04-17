@@ -15,7 +15,7 @@ MongoDB for the database, Java and Spring Boot for the back end, and React for t
 - The capacity to add multiple reviews for future reference.
 
 # Future scope
--In the future, we can implement authentication to allow users to create their own private movie lists, and view the owner of each review.
+- In the future, we can implement authentication to allow users to create their own private movie lists, and view the owner of each review.
 
 
 ### Why CinePreview ?
