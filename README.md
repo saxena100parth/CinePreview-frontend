@@ -1,6 +1,6 @@
 # CinePreview_frontend
 This repository contain frontend code for movie review application.
-<a src="https://github.com/saxena100parth/CinePreview-frontend#also-used">how app looks</a>
+[how app looks]("https://github.com/saxena100parth/CinePreview-frontend#also-used")
 
 
 ## what I build and which problem I want to solve.
