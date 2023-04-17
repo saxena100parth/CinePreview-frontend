@@ -1,18 +1,25 @@
-# Getting Started with Create React App
-<img  align="right" width="380" src ="(https://user-images.githubusercontent.com/87128985/232482614-bf559a1b-165e-448b-ad61-cb10f389eb3a.jpg">
+# CinePreview_frontend
+This repository contain frontend code for movie review application.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## what I build and which problem I want to solve.
 
-## Available Scripts
+Being a huge fan of movies, I decided to put my tech skills to good use by crafting a web application that tracks all the flicks I've already indulged in and those that I can't wait to feast my eyes on.
 
-In the project directory, you can run:
+# Tech stack- React.js, SpringBoot & MongoDB.
+MongoDB for the database, Java and Spring Boot for the back end, and React for the front end.
 
-### `npm start`
+# Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Why CinePreview ?
+It combines the words "Cinema" (referring to movies) and "Preview" (referring to the trailers), and has a catchy ring to it. The name also implies that users can get a sneak peek at movies trailer and add their thoughts on them through reviews.
+
+### Also used:
+Railway - for deploying backend. <br>
+GitHub-pages - for deploying frontend. <br>
+MongoDB Atlas - for cloud MongoDB database. <br>
+Maven - build automation tool. <br>
+tmdb.org - a website which provides free to use API for development, I use it for posters of movies. <br>
+
 
 ![CinePreview](https://user-images.githubusercontent.com/87128985/232482614-bf559a1b-165e-448b-ad61-cb10f389eb3a.jpg)
