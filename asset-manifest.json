@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CinePreview-frontend/static/css/main.df8ad702.css",
+    "main.js": "/CinePreview-frontend/static/js/main.d244a2f6.js",
+    "static/js/787.b8e729d8.chunk.js": "/CinePreview-frontend/static/js/787.b8e729d8.chunk.js",
+    "index.html": "/CinePreview-frontend/index.html",
+    "main.df8ad702.css.map": "/CinePreview-frontend/static/css/main.df8ad702.css.map",
+    "main.d244a2f6.js.map": "/CinePreview-frontend/static/js/main.d244a2f6.js.map",
+    "787.b8e729d8.chunk.js.map": "/CinePreview-frontend/static/js/787.b8e729d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df8ad702.css",
+    "static/js/main.d244a2f6.js"
+  ]
+}
