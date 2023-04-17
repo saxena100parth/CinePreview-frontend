@@ -11,6 +11,9 @@ Being a huge fan of movies, I decided to put my tech skills to good use by craft
 MongoDB for the database, Java and Spring Boot for the back end, and React for the front end.
 
 # Features
+The features of my application include the ability to watch trailers of all movies that have been added to our collection, as well as the capacity to add multiple reviews for future reference.
+
+# Future scope
 
 
 ### Why CinePreview ?
